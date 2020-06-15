@@ -2,7 +2,7 @@ name: number_to_text
 description: Convert any number to text.
 version: 0.0.1
 author: Adelino Safeca
-homepage: not availlable yet
+homepage: https://github.com/CoderAware/number_to_text
 environment: 
   sdk: ">=2.7.0 <3.0.0"
 
