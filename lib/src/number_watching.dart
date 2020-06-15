@@ -1,6 +1,6 @@
 import 'package:intl/intl.dart';
-import 'package:number_to_text/number_conversion.dart';
-import 'package:number_to_text/numbers.dart';
+import 'package:number_to_text/src/number_conversion.dart';
+import 'package:number_to_text/src/numbers.dart';
 
 String numberWatching(double value) {
   if (value <= 0 || value >= 1000000000000000) {

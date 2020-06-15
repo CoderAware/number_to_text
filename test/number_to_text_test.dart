@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:number_to_text/number_to_text.dart';
+import 'package:number_to_text/src/number_to_text.dart';
 
 void main() {
   
