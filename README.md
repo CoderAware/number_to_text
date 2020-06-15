@@ -26,7 +26,7 @@ it prints: VINTE E CINCO; //In Portuguese, for now!
 
 ## WHAT'S NEXT?
 
-Add Locale to change the language according to the user choices.
+Add Locale to change the language according to the user choice.
 It's comming soon!
 
 
