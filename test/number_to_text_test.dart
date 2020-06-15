@@ -27,6 +27,12 @@ void main() {
 
   });
 
+     test('Test the method if it Converts to VINTE E CINCO', (){
+    expect(NumberToText().convert(value:25), 'VINTE E CINCO');
+
+
+  });
+
   
 
   
